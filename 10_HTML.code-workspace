@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/sample"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "10_HTML"
+	}
+}
